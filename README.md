@@ -24,7 +24,7 @@ Then, clone and build:
 
 `mv nexus-shell/tools ~`
 
-`nim c -d:release --opt:speed src/nexus.nim`
+`nim c -d:release --opt:speed src/nsh.nim`
 
 🚀 Roadmap
 
